@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    margin: 30px auto;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.containerStyle {
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    background-color: #f4f4f4;
+    border: 1px solid #ccc;
+}
+
+.parrafo {
+    text-align: center;
+    margin: 50px auto;
+    font-size: 20px;
+
+}
