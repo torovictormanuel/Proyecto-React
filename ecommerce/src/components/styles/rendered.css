@@ -1,0 +1,35 @@
+.images{
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: space-around;
+ box-sizing: border-box;
+}
+
+.Card{
+    background-color: rgb(211, 128, 19);
+    border: 2px solid grey;
+    border-radius:15px;
+    width: auto;
+    height: auto;
+    margin: 10px;
+    color: black;
+    padding: 5px;
+}
+
+.img-unica{
+    width: 300px;
+    height: 300px;
+    margin: 12px;
+    border-radius: 12px;
+    max-width: 300px;
+
+}
+.title-Card{
+    text-align: center;
+    font-size: 15px;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* body{
+    background-image:url("https://i.pinimg.com/736x/76/b4/55/76b4559ae64207e0fed5b269c09d331f.jpg");
+} */

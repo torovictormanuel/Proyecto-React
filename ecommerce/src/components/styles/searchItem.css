@@ -1,0 +1,25 @@
+.search-container{
+    position: relative;
+}
+
+.search-input{
+    border: 1px solid grey;
+    border-radius: 15px;
+    background-color: darkgray;
+    width: 700px;
+    padding: 10px 25px;
+    text-decoration: dashed;
+    font-size: 17px;
+    
+}
+
+.search-icon {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 20px; 
+    height: 20px;
+    cursor: pointer;
+  }
+
